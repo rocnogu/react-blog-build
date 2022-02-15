@@ -1,0 +1,25 @@
+{
+  "short_name": "rocnogu-blog",
+  "name": "rocnogu-blog Sample",
+  "icons": [
+    {
+      "src": "https://rocnogu-blog-bucket.s3.eu-central-1.amazonaws.com/logo_8e92409ff9.jpg",
+      "sizes": "16x16",
+      "type": "image/jpg"
+    },
+    {
+      "src": "https://rocnogu-blog-bucket.s3.eu-central-1.amazonaws.com/logo_8e92409ff9.jpg",
+      "type": "image/jpg",
+      "sizes": "16x16"
+    },
+    {
+      "src": "https://rocnogu-blog-bucket.s3.eu-central-1.amazonaws.com/logo_8e92409ff9.jpg",
+      "type": "image/jpg",
+      "sizes": "16x16"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
